@@ -1,2 +1,2 @@
 
-![Screen shot](https://github.com/mborsare/marvin-the-martian/blob/master/marvin-screenshot.gif)
+![Screen shot](https://raw.githubusercontent.com/mborsare/marvin-the-martian/master/marvin-screenshot.gif)
